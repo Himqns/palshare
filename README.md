@@ -1,5 +1,3 @@
-you should reach before moving on. Every Django concept links to the official
-documentation at `docs.djangoproject.com/en/5.2/`.
 # PalShare
 
 PalShare is a workshop-built social platform powered by Django. Members can
